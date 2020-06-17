@@ -45,9 +45,18 @@ Les traques sont disponibles avec bonus !
 Venez redécouvrir DOFUS 1.29 sous toute ses formes  avec Valora !
 
 Dans la soirée du 17/06 nous ajoutons l'agression même alignement Bonta vs Bonta / Mercenaire vs Mercenaire / Brakmar vs Brakmar même si ce systéme es déjà implanter via les traque nous avons travailler sur un debug pour l'agression manuel ! Donc l'agression Même alignement seras effectif par le simple clique agresser dans la soirée 
+18/06/20  01:15 
 
 
 Nous sommes entrain de concevoir un nouveau systéme de 6 contre 6 format guilde contre guilde !
 Je m'éxplique , Un nouveau systéme via un pnj ou les inscription se feront uniquement avec  des personnages en groupes de 6 joueurs de la même guilde !!! Pas de difference de niveaux les equipe seront pour l'instant implanter aléatoirement  mais nous travaillons aussi sur un systéme de RAPPORT DE LEVEL , cet à dire un systéme qui rechercheras un niveaux de groupe proche de sont groupe!
 
 Nous allons l'insérer en béta la semaine prochaine 
+
+18/06/20  01:15 
+
+Vous  pouvais dés à présent mettre à jours votre launcher  et profiter de l'agression même alignement : Bonta vs bonta / Brackmar vs Brackmar & Mercenaires vs Mercenaires.
+
+https://ibb.co/fFjkWnX
+https://ibb.co/F30M4F3
+https://ibb.co/Yyf9dpr
