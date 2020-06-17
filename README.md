@@ -58,5 +58,7 @@ Nous allons l'insérer en béta la semaine prochaine
 Vous  pouvais dés à présent mettre à jours votre launcher  et profiter de l'agression même alignement : Bonta vs bonta / Brackmar vs Brackmar & Mercenaires vs Mercenaires.
 
 https://ibb.co/fFjkWnX
+
 https://ibb.co/F30M4F3
+
 https://ibb.co/Yyf9dpr
