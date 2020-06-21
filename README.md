@@ -62,3 +62,14 @@ https://ibb.co/fFjkWnX
 https://ibb.co/F30M4F3
 
 https://ibb.co/Yyf9dpr
+
+21/06/20 02:49  
+Nous avons activé le 6v6 guilde contre guilde + le roie des guilde + Les filtre inventaire pnj et invantaire personnages !
+
+Le 6v6 nous l'attendions avec impatience et nous l'avons fait après avoir debug l'agression même alignement pour toute forme d'agression (traque et agression normal  ) nous nous sommes mis une épreuve un nouveaux systéme  et aujourdh'hui je vous le présente ^^
+
+La commande .guilde  6 joueurs dans un groupe  de la même guilde   affronte 6 membres d'une autres guilde  sur des map's aléatoires
+Pnj roie qui afficheras un skin Neutre et quand on lui parleras nous donneras le nom de la guilde dominante du serveur, en rapport avec le  GVG  et non via l'xp de guilde !
+
+en cours finissions des  derniers donjons 1.29  et finissions du donjons mono salle avec quêtes  pour acceder au donjon !
+Nous avons finis le Bosse " VALORATOR " 
